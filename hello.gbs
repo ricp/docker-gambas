@@ -1,0 +1,17 @@
+#!/usr/bin/env gbs3
+
+Public Sub Main()
+ 
+Dim sString As String = "Hello from Gambas world!"  
+Dim sNewString, sTemp As String                         
+Dim siCount As Short                                   
+Dim sWord As New String[]                              
+ 
+For siCount = Len(sString) DownTo 1                     
+  sNewString &= Mid(sString, sicount, 1)                
+Next
+
+Print sNewString & " -> " & sString
+Print "Gambas compilation successful :-)"
+ 
+End
