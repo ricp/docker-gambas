@@ -1,4 +1,4 @@
-# Docker Gambas 3 - ubuntu 22.10
+# Docker Gambas 3 - Ubuntu 22.10
 
 Ubuntu 22.10 Docker image for the Gambas programming language.
 
