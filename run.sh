@@ -1,0 +1,1 @@
+docker run --rm -it  --name gambas ricp/gambas:3.17.3
