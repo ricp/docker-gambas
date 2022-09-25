@@ -5,7 +5,7 @@ Ubuntu 22.10 Docker image for the Gambas programming language.
 Use Gambas stable version `3.17.3`
 
 ## Pull from Docker Hub
-`docker pull ricp/gambas:3.17.3
+`docker pull ricp/gambas:3.17.3`
 
 ### Or build image from Dockerfile
 To build the image use the script `./build.sh`
